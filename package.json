@@ -1,0 +1,14 @@
+{
+  "name": "cookie-forger",
+  "version": "1.0.0",
+  "description": "Forges a session cookie given a payload and private keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Groovin <admin@groovin.dev>",
+  "license": "ISC",
+  "dependencies": {
+    "keygrip": "^1.1.0"
+  }
+}
